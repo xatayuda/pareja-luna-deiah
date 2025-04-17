@@ -5,11 +5,11 @@ const colores = [
     "#F08080",  // Color Rosa
     "#9370DB",  // Color Morado Claro
     "#3CB371",  // Color Verde Menta
-    "#87CEFA",  // Color Celeste Claro
-    "#0000CD",  // Color Azul Oscuro
-    "#FFA500",  // Color Anaranjado
-    "#FF4B45",  // Color Rojizo
-    "#FFC18F",  // Color Beige
+    "#0056D6",  // Color Celeste Claro
+    "#0800A6",  // Color Azul Oscuro
+    "#C75600",  // Color Anaranjado
+    "#D61200",  // Color Rojizo
+    "#BF8A54",  // Color Beige
 ];
     let indiceColor = 0;
 
